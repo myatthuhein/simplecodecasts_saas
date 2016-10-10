@@ -13,6 +13,7 @@ group :production do
     
 end
 
+# Use bootstrap library for styles
 gem 'bootstrap-sass','3.3.1'
 
 # Use SCSS for stylesheets

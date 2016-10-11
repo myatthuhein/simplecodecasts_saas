@@ -13,6 +13,9 @@ group :production do
     
 end
 
+#Use font awesome library for icons
+gem 'font-awesome-sass', '4.2.0'
+
 # Use bootstrap library for styles
 gem 'bootstrap-sass','3.3.1'
 
